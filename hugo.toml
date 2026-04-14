@@ -5,6 +5,7 @@ defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 
 baseURL = "https://hugo-theme-chirpy.pages.dev/"
+canonifyURLs = true
 
 [pagination]
   pagerSize = 5
