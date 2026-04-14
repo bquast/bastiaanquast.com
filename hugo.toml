@@ -9,6 +9,8 @@ defaultContentLanguageInSubdir = false
 
 [params]
   theme_version = "1.0.2"
+  [params.assets]
+    self_host = true
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
