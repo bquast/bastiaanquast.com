@@ -33,3 +33,5 @@ canonifyURLs = true
   source = "."
   target = "static/lib"
 
+[frontmatter]
+  date = [":filename", "date", "publishDate"]
