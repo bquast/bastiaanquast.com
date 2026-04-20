@@ -17,7 +17,7 @@ author = "Bastiaan"
 [[social.links]]
   type = "twitter"
   id = "baquast"
-  icon = "fab fa-twitter"
+  icon = "fab fa-x-twitter"
 
 [comments]
   enable = false
